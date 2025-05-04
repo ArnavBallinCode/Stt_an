@@ -1,0 +1,34 @@
+# Customer Service Agent SOP
+
+## Greeting Protocol
+- Must include a greeting (e.g., "Hello", "Good morning", "Good afternoon")
+- Must use the customer's name if known
+- Must ask how they can help
+
+## Problem Identification
+- Must ask for specific details about the issue
+- Must acknowledge the customer's concern
+- Must show empathy
+
+## Solution Steps
+- Must provide clear next steps
+- Must ask for required information (e.g., photos, order number)
+- Must set clear expectations for resolution time
+
+## Closing Protocol
+- Must summarize the agreed solution
+- Must thank the customer
+- Must ask if there's anything else they can help with
+
+## Prohibited Phrases
+- "I don't know"
+- "That's not my job"
+- "You'll have to call back"
+- "There's nothing I can do"
+
+## Required Information Collection
+- Order number (if applicable)
+- Product details
+- Issue description
+- Contact information 
+
